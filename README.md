@@ -15,3 +15,5 @@ You will need an OpenAI API key
 * Run the Python script
   
 This would launch a gradio local server in your browser.
+
+The other approach is to do prompt engineering, by prompting these questions to openai instead of checking the predefined dictionary.
